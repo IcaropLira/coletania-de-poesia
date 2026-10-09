@@ -3,7 +3,7 @@ titulo: Águas dos rochedos
 autor: Ronaldo Cunha Lima
 ano: desconhecido
 data: 1993-01-01
-destaque: sim
+destaque: não
 tags: mar, paixão, entrega, desejo, soneto
 ---
 Que me venham de espuma os teu abraços

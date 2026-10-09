@@ -3,7 +3,7 @@ titulo: Porque o “nada” é “sim”
 autor: Ronaldo Cunha Lima
 ano: desconhecido
 data: 1993-01-01
-destaque: sim
+destaque: não
 tags: fé, amor, esperança, certeza, soneto
 ---
 

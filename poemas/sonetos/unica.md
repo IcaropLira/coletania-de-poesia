@@ -3,7 +3,7 @@ titulo: Única
 autor: Ronaldo Cunha Lima
 ano: desconhecido
 data: 1993-01-01
-destaque: sim
+destaque: não
 tags: amor, dedicação, companheirismo, vida, soneto
 ---
 

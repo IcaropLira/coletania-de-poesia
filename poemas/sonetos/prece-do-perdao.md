@@ -3,7 +3,7 @@ titulo: Prece do perdão
 autor: Ronaldo Cunha Lima
 ano: desconhecido
 data: 1993-01-01
-destaque: sim
+destaque: não
 tags: mãe, perdão, arrependeu-se, amor, soneto
 ---
 

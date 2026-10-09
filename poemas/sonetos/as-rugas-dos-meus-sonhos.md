@@ -3,7 +3,7 @@ titulo: As rugas dos meus sonhos
 autor: Ronaldo Cunha Lima
 ano: desconhecido
 data: 1993-01-01
-destaque: sim
+destaque: não
 tags: tempo, velhice, memória, sonhos, soneto
 ---
 Essas rugas que trago no meu rosto

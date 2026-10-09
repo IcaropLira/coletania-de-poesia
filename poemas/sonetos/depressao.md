@@ -3,7 +3,7 @@ titulo: Espelho meu
 autor: Ronaldo Cunha Lima
 ano: desconhecido
 data: 1993-01-01
-destaque: sim
+destaque: não
 tags: tempo, espelho, velhice, passado, soneto
 ---
 Vontade de ser só, ficar sozinho

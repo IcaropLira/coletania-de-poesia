@@ -3,7 +3,7 @@ titulo: Ausência breve
 autor: Ronaldo Cunha Lima
 ano: desconhecido
 data: 1993-01-01
-destaque: sim
+destaque: não
 tags: ausência, saudade, solidão, amor, soneto
 ---
 Nada sei dessa angústia que me invade

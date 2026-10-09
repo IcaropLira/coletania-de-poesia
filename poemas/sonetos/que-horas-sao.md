@@ -3,7 +3,7 @@ titulo: Que horas são?
 autor: Ronaldo Cunha Lima
 ano: desconhecido
 data: 1993-01-01
-destaque: sim
+destaque: não
 tags: tempo, espera, saudade, obsessão, soneto
 ---
 
