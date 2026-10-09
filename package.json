@@ -1,0 +1,15 @@
+{
+  "name": "colet-nea-de-poesias",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Coletânea de poesias: um site estático gerado a partir de arquivos .md",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node build.mjs --serve",
+    "novo": "node novo.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
