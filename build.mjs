@@ -212,6 +212,7 @@ function layout({ title, description, body, path: pagePath = '/' }) {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="aWKAHHdehLbi8jns4J1idWDy4pwJfzfMKBDAHRvOVUw">
 <title>${esc(fullTitle)}</title>
 <meta name="description" content="${esc(desc)}">
 <meta property="og:title" content="${esc(fullTitle)}">
